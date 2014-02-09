@@ -1,6 +1,11 @@
 uli-mini-tools-downloads
 ========================
 
+*THIS IS OBSOLETE!* Github re-enabled the upload of distributables, so the precompiled binaries
+of [uli-mini-tools](https://github.com/uli-heller/uli-mini-tools) are now available within
+<https://github.com/uli-heller/uli-mini-tools/releases>. Expect this github project to disappear
+in near future!
+
 Binary downloads for uli-mini-tools
 
 * <https://github.com/uli-heller/uli-mini-tools> contains the current source code
